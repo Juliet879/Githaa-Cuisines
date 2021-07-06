@@ -1,0 +1,34 @@
+
+.siteTitle{
+    display: block;
+    font-weight: 900;
+    font-size: 30px;
+    margin: 20px 0;
+
+}
+.card1 {
+    width: 600px;
+    height: 400px;
+    position: relative;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: flex-end;
+    text-decoration: none;
+    border: 4px solid #b0215e;
+    margin-bottom: 20px;
+    background-image: url(/images/RoastedChicken.jpg);
+    background-size:cover;
+      }
+      .inner {
+        height: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center; 
+        background: white;
+        box-sizing: border-box;
+        padding: 40px;
+        margin-top:0%;
+    }
+    
