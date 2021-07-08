@@ -1,0 +1,44 @@
+.image:hover{
+  
+    -webkit-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.8);
+}
+.about{
+  display:flex;
+  
+}
+.image2{
+  display:flex;
+
+}
+.us{
+  margin-top:10% ;
+  padding-left:10%;
+  color:maroon;
+
+}
+.fries{
+  padding-top:15%;
+  padding-left: 20px;
+  padding-right:30px ;
+}
+.pizza{
+  padding-top:15% ;
+  padding-left:20px;
+  padding-right:30px;
+}
+.deli{
+  padding-top: 15%;
+  padding-left: 20px; 
+   padding-right:30px;
+}
+.minji{
+  padding-top :15%;
+  padding-left: 20px;
+  padding-right: 30px;
+
+}
+#p1{
+  color:black;
+}
